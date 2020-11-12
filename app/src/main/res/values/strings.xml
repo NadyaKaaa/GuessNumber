@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="behind">Недолёт</string>
+    <string name="ahead">Перелёт</string>
+    <string name="hit">В точку!</string>
+    <string name="guess_number">Угадайте число в диапазоне  1 &#8211; 100</string>
+    <string name="input_number">Введите число</string>
+    <string name="send_value">Ввести значение</string>
+    <string name="error_input">Неверный ввод</string>
+    <string name="play_more">Сыграть еще</string>
+</resources>
